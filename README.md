@@ -1,5 +1,3 @@
-# ★ About Me:
-♡ Currently working on making my first prototype website in HTML, CSS, and JavaScript.<br>♡ I'm looking for help with making animations with JavaScript and mainly CSS. <br>♡ I'm currently studying web/software development.<br>
 
 
 ## Socials:
